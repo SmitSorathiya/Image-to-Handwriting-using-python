@@ -1,0 +1,1 @@
+It is a simple image to handwrinting converter made using python. In this, Tesseract is used to convert image to text and a handwriting font style is added to it which converts normal text into handwriting.
